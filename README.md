@@ -109,5 +109,4 @@ Skills are auto-invoked when Claude detects a relevant request:
 
 ## Related
 
-- [seahyc/lark-cli](https://github.com/seahyc/lark-cli) — the lark-cli tool
-- [yjwong/lark-cli](https://github.com/yjwong/lark-cli) — upstream
+- [seahyc/lark-cli](https://github.com/seahyc/lark-cli) — lark-cli

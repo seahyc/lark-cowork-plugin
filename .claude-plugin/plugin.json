@@ -1,0 +1,15 @@
+{
+  "name": "lark",
+  "version": "1.0.0",
+  "description": "Lark/Feishu integration for Claude Cowork — calendar, messages, docs, sheets, bitable, tasks, email, and minutes via the lark-cli tool.",
+  "author": {
+    "name": "seahyc",
+    "url": "https://github.com/seahyc"
+  },
+  "homepage": "https://github.com/seahyc/lark-cowork-plugin",
+  "repository": "https://github.com/seahyc/lark-cowork-plugin",
+  "license": "MIT",
+  "keywords": ["lark", "feishu", "calendar", "messages", "docs", "sheets", "bitable", "tasks", "email", "minutes"],
+  "skills": "./skills/",
+  "commands": "./commands/"
+}

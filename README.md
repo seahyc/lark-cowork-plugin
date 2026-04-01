@@ -25,7 +25,7 @@ This plugin requires the **lark-cli** tool to be installed and authenticated.
 
 ```bash
 # From source
-git clone https://github.com/yjwong/lark-cli
+git clone https://github.com/seahyc/lark-cli
 cd lark-cli && make install
 ```
 
@@ -109,5 +109,5 @@ Skills are auto-invoked when Claude detects a relevant request:
 
 ## Related
 
-- [lark-cli](https://github.com/yjwong/lark-cli) — the underlying CLI tool
-- [seahyc/lark-cli](https://github.com/seahyc/lark-cli) — maintained fork with latest features
+- [seahyc/lark-cli](https://github.com/seahyc/lark-cli) — the lark-cli tool
+- [yjwong/lark-cli](https://github.com/yjwong/lark-cli) — upstream

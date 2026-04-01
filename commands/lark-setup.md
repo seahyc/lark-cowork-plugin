@@ -12,8 +12,7 @@ which lark && lark --version
 ```
 
 If not found, direct the user to install it:
-- GitHub: https://github.com/yjwong/lark-cli
-- Or fork: https://github.com/seahyc/lark-cli
+- GitHub: https://github.com/seahyc/lark-cli
 
 ## Configuration Check
 
